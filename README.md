@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Badal Mandal</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fdevops-engineer-animation--847380486116730317%2F&psig=AOvVaw15LzXmmjOS4IYS-auMSWio&ust=1716220077967000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDaw6CImoYDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badalmandal&label=Profile%20views&color=0e75b6&style=flat" alt="badalmandal" /> </p>
 
